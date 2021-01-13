@@ -112,7 +112,7 @@
 					<a class="siocial-list__link" href="https://www.linkedin.com/in/ervin-john-gonzales-458007157/"><i class="fab fa-linkedin"></i></a>
 				</li>
 				<li class="social-list__item">
-					<a class="siocial-list__link" href="https://github.com/ErvinJohnGonzales/Portfolio-Projects.git"><i class="fab fa-github-square"></i></a>
+					<a class="siocial-list__link" href="https://github.com/ErvinJohnGonzales"><i class="fab fa-github-square"></i></a>
 				</li>
 			</ul>
 			<a class="footer__link">0449658516</a>
