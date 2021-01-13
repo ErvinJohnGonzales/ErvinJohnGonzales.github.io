@@ -79,15 +79,15 @@
 
 			<div class="portfolio">
 				<a href="portfolio project.html" class="portfolio__item">
-					<img src="assessment 3 erd.png" alt="" class="portfolio__img">
+					<img src="ses (6).JPG" alt="" class="portfolio__img">
 				</a>
 
 				<a href="#" class="portfolio__item">
-					<img src="Assessment 2 DFD level 0.png" alt="" class="portfolio__img">
+					<img src="" alt="" class="portfolio__img">
 				</a>
 				
 				<a href="#" class="portfolio__item">
-					<img src="Assessment 2 DFD level 1.png" alt="" class="portfolio__img">
+					<img src="" alt="" class="portfolio__img">
 				</a>
 
 				<a href="#" class="portfolio__item">
