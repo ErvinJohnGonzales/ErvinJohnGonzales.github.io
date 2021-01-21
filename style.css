@@ -400,10 +400,8 @@ header {
 }
 
 .footer__link {
-	display: flex;
 	font-size: var(--fs-h3);
 	font-weight: var(--fw-bold);
-	padding: 2.5em 0;
 }
 
 .footer__link:hover,
