@@ -424,6 +424,7 @@ header {
 
 .social-list__link {
 	padding: .5em;
+	color: var(--clr-accent);
 }
 
 .portfolio-item-individual {
